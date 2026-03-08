@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Minimum Generated Pig ~
 
 <!--
 **minigenepig/minigenepig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,27 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋 I'm Minimum Generated Pig
+#### Featured Project
 
-AI / Open Source / Research
+[![Repo Card](https://gh-card.dev/repos/datawhalechina/musiclm-universe.svg)](https://github.com/datawhalechina/musiclm-universe)
 
-## 🚀 Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=musiclm-universe)](https://github.com/datawhalechina/musiclm-universe)
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=minimum-generated-pig&show_icons=true)
-
-## 🌱 Currently Working On
-
-- MusicLM related research
-- Audio generation
-- Open source community
-
-## 📫 Contact
-
-- GitHub: https://github.com/minimum-generated-pig
+#### Contact
 
 
 
