@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 #### Project
 
-[![Repo Card](https://gh-card.dev/repos/datawhalechina/musiclm-universe.svg)](https://github.com/datawhalechina/musiclm-universe)
-
+% [![Repo Card](https://gh-card.dev/repos/datawhalechina/musiclm-universe.svg)](https://github.com/datawhalechina/musiclm-universe)
+-->
 
 <div align=center>
 <img width="1100" src="images/instrument.jpg"/>
