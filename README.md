@@ -25,9 +25,14 @@ Here are some ideas to get you started:
 </div>
 <div align=center></div>
 
+#### News
+
+- [2026.03] 🎉 Released the initial version of **the MusicLM-Universe project** in the Datawhale community.
+- [2025.12] 📝 Our paper has been accepted by **AAMAS 2026**.
+- [2025.09] 🎸 Started an internship at **NetEase Cloud Music**.
+- [2025.03] 🏅 Honored as an Outstanding Volunteer for **the 9th Asian Winter Games (Harbin 2025)**.
+
 #### Contact
-
-
 
 
 
